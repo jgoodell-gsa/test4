@@ -258,6 +258,7 @@
     <Content Include="RegistrationDAL.Service\file4.txt" />
     <Content Include="RegistrationDAL.Service\file5.txt" />
     <Content Include="RegistrationDAL.Service\file6.txt" />
+    <Content Include="RegistrationDAL.Service\newfile.txt" />
     <Content Include="RegistrationDAL.Service\RegistrationDAL.Service.csproj" />
     <Content Include="RegistrationDAL.Service\RegistrationDAL.Service.csproj.user" />
     <Content Include="RegistrationDAL.Service\Service1.svc" />
