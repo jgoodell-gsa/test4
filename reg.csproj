@@ -250,7 +250,13 @@
     <Content Include="RegistrationDAL.Client\RegistrationDAL.Client.csproj" />
     <Content Include="RegistrationDAL.Client\RegistrationDAL.Client.csproj.user" />
     <Content Include="RegistrationDAL.Client\RegistrationService.svc" />
-    <Content Include="RegistrationDAL.Service\file101.txt" />
+    <Content Include="RegistrationDAL.Service\File101.txt" />
+    <Content Include="RegistrationDAL.Service\file102.txt" />
+    <Content Include="RegistrationDAL.Service\file103.txt" />
+    <Content Include="RegistrationDAL.Service\file2.txt" />
+    <Content Include="RegistrationDAL.Service\file3.txt" />
+    <Content Include="RegistrationDAL.Service\file4.txt" />
+    <Content Include="RegistrationDAL.Service\file5.txt" />
     <Content Include="RegistrationDAL.Service\RegistrationDAL.Service.csproj" />
     <Content Include="RegistrationDAL.Service\RegistrationDAL.Service.csproj.user" />
     <Content Include="RegistrationDAL.Service\Service1.svc" />

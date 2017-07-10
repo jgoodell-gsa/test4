@@ -154,3 +154,8 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+file2.txt
+*file3.txt
+*/file4.txt
+RegistrationDAL.Service/file5.txt
